@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darkknight96
+- 👋 Hi, I’m @Darkknight96⚔
 - 👀 I’m interested in Ethereum
 - 🌱 I’m currently learning Solidity...
 - 👥 I’m looking to collaborate on #Bitcoin and othrr crypto projects
